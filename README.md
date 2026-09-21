@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=200&section=header&text=JaeUng's%20Dev%20Space&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Architecture%20%26%20Scalability&descAlignY=62&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=200&section=header&text=JaeUng's%20Dev%20Space&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Architecture%20and%20Scalability&descAlignY=62&descSize=20" width="100%"/>
 </div>
 
 <br/>
@@ -88,8 +88,11 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rnrn428&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnrn428&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rnrn428&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=rnrn428&theme=tokyonight&hide_border=true" height="150" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rnrn428&layout=compact&theme=tokyonight&hide_border=true" height="140" />
 </div>
 
 <br/>
